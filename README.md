@@ -1,7 +1,8 @@
-**Please only continue with the Game Testing and Survey if you are currently a Student or employed by the University of Kent. **
+# Survey 
+Please only continue with the Game Testing and Survey if you are currently a Student or employed by the University of Kent. 
 Thank you for choosing to take part in my research. Below is the Link to the Survey: 
 
-**Please complete the Survey after playing the Game **
+Please complete the Survey after playing the Game 
 
 # Introduction: 
 I am Jamie Champion, a final year undergraduate studying Cyber Security at the University of Kent. This is my dissertation project contributing towards my final grade of my degree. I would like to extend a warm welcome to the world of "Pixel Protectors: Server Defence Saga," an innovative research project aiming to redefine how children aged 8-13 learn about online safety and cyber security. In this interactive journey, I invite you to become active participants in shaping an educational video game that blends entertainment and education seamlessly.
